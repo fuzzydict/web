@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fuzzydictionary/static/css/main.1e54a831.css",
+    "main.js": "/fuzzydictionary/static/js/main.33c7b19e.js",
+    "static/js/488.fcbb8717.chunk.js": "/fuzzydictionary/static/js/488.fcbb8717.chunk.js",
+    "index.html": "/fuzzydictionary/index.html",
+    "main.1e54a831.css.map": "/fuzzydictionary/static/css/main.1e54a831.css.map",
+    "main.33c7b19e.js.map": "/fuzzydictionary/static/js/main.33c7b19e.js.map",
+    "488.fcbb8717.chunk.js.map": "/fuzzydictionary/static/js/488.fcbb8717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e54a831.css",
+    "static/js/main.33c7b19e.js"
+  ]
+}
